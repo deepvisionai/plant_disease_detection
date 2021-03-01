@@ -10,4 +10,3 @@ trainer/detection_results
 trainer/effdet_checkpoints
 trainer/ground_truth
 trainer/runs
-trainer/validatio_image_results
