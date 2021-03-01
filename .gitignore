@@ -1,0 +1,13 @@
+.ipynb_checkpoints
+data
+final_labels
+final_test_images
+final_train_images
+final_valid_images
+plant_doc_disease_detection_original_dataset.zip
+trainer/aug_sample_images
+trainer/detection_results
+trainer/effdet_checkpoints
+trainer/ground_truth
+trainer/runs
+trainer/validatio_image_results
